@@ -46,3 +46,11 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+
+
+TO clone:
+git clone https://github.com/yourusername/regression-streamlit-app.git
+cd regression-streamlit-app
+streamlit run app.py
+
